@@ -1,5 +1,12 @@
 URL - É o indereço do site que se dezeja visita.
-
+      
+       www.github.com/gustavoguanabara - URL
+     
+       www - sub-domínio
+       github - domínio
+       .com - TLD
+       gustavoguanabara - caminho
+       
 Domínio 
 
 - Nome único
@@ -11,3 +18,6 @@ Hospedagem
 - Espaço para armazenar arquevos
 - Pago mensalmente
 - Espaço, memória, recursos
+
+
+
