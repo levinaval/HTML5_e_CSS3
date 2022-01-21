@@ -2,7 +2,6 @@
 
   * Está presente em nossas vidas. Quando acessamos o nosso email, quando lemos as notícias online, quando entramos 
   no YouTube e quando vemos as nossas redes sociais. 
-
     Porém… a maioria dos seres humanos não se dá conta da sua presença.
   O Html é responsável por dizer ao seu navegador como o conteúdo vai estar estruturado. sem ele (Html), a navegação 
   não teria graça.
