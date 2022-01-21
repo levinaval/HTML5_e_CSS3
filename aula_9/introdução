@@ -12,22 +12,34 @@ CSS -
 
 conteúdo em html 
 
-     <h1> Exemplo </h1> tag de títolo
+     <h1> Exemplo </h1> TAG DE TÍTULO
      
-     <p> Exemplo </p> tag de parágrafo
+     <p> Exemplo </p> TAG DE PARÁGRAFO
      
      <img src="foto.png" alt="Exemplo de foto">
      
-     <img - abertura de tag             
+     <img - ABERTURA DE TAG             
      
-     src= alt= - parâmetro 
+     src=, alt= - PARÂMETRO P
 
-     " " - valor
+     " " - VALOR
+---------------------------------------------------------
+     h1 {
+         font-family: Arial;
+         font-size: 20pt;     
+         color: blue
+        }  
+h1{
+    - SELETOR
+}            
 
-    seletor - h1 {
-                   font-family: Arial;
-                   font-size: 20pt;     - declaração
-                   color: blue
-                 }
+      font-family: Arial;
+      font-size: 20pt;     - DECLARAÇÃO
+      color: blue 
+
+      font-family:
+      font-size: - PROPRIEDADE
+      color:
+----------------------------------------------------------
 
      
