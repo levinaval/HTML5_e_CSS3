@@ -42,7 +42,7 @@ h1{
       color:
 ----------------------------------------------------------
 
-Estrutura básica de doculmento HTML
+Estrutura básica de documento HTML
 
      <!DOCTYPE html> - TAG ESPECÍFICA DE PROGAMAÇÃO html5
 
@@ -55,8 +55,10 @@ Estrutura básica de doculmento HTML
            <meta charset="UTF-8"> - DA COMPATIBILIDADE COM ACENTUAÇÃO DA LINGUA PORTUGUÊSA.
 
            <meta name="width=device-width,initial-scale=1.0"> - PARA QUE O SITE OCUMPE A PARTE BRANCA E SERA VISUALISADO NA ESCALA DE SEM POR CENTO 
+           <title>Document</title>
 
         </head> - FECHAMENTO DA CABEÇA
 
         <body> - ABERTURA DA CORPO
+            <h1>Olá, Mundo!</h1>
         </body> - FECHAMENTO DA CORPO
