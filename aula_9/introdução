@@ -42,4 +42,18 @@ h1{
       color:
 ----------------------------------------------------------
 
+Estrutura básica de doculmento HTML
+
+     <!DOCTYPE html> - TAG ESPECÍFICA DE PROGAMAÇÃO html5
+
+     <html lang="pt-br> - DIZ QUE ESTE SITE SERA PRIMORDIALMENTE EM PORTUGUÊS.
      
+     </html>    
+
+        <head> - ABERTURA DA CABEÇA 
+
+           <meta charset="UTF-8"> - DA COMPATIBILIDADE COM ACENTUAÇÃO DA LINGUA PORTUGUÊSA.
+        </head> - FECHAMENTO DA CABEÇA
+
+        <body> - ABERTURA DA CORPO
+        </body> - FECHAMENTO DA CORPO
