@@ -9,3 +9,25 @@ HTML - HyperText Markup Language
 CSS - 
      é uma linguagem de desainer
      ex: cores, sombras, tamanhos, posicionamento
+
+conteúdo em html 
+
+     <h1> Exemplo </h1> tag de títolo
+     
+     <p> Exemplo </p> tag de parágrafo
+     
+     <img src="foto.png" alt="Exemplo de foto">
+     
+     <img - abertura de tag             
+     
+     src= alt= - parâmetro 
+
+     " " - valor
+
+    seletor - h1 {
+                   font-family: Arial;
+                   font-size: 20pt;     - declaração
+                   color: blue
+                 }
+
+     
