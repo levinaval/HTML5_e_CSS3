@@ -53,6 +53,9 @@ Estrutura básica de doculmento HTML
         <head> - ABERTURA DA CABEÇA 
 
            <meta charset="UTF-8"> - DA COMPATIBILIDADE COM ACENTUAÇÃO DA LINGUA PORTUGUÊSA.
+
+           <meta name="width=device-width,initial-scale=1.0"> - PARA QUE O SITE OCUMPE A PARTE BRANCA E SERA VISUALISADO NA ESCALA DE SEM POR CENTO 
+
         </head> - FECHAMENTO DA CABEÇA
 
         <body> - ABERTURA DA CORPO
