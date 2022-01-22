@@ -13,4 +13,4 @@
 
   * Front-end, Back-end e Full Stack ([Descrição](https://www.youtube.com/watch?v=iSqf2iPqJNM&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=10) | [Introdução](https://github.com/levinaval/html5_e_css3/blob/main/Front-end%2C%20Back-%20end%20e%20Full%20Stack/I.mod.1_cap3_aula10))
 
-  *  ([Descrição](https://www.youtube.com/watch?v=iSqf2iPqJNM&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=10) | [Introdução](https://github.com/levinaval/html5_e_css3/blob/main/mod.1_cap3_aula.10/I_Front-end%2C%20Back-%20end%20e%20Full%20Stack))
+  * Html exercício ([Descrição](https://www.youtube.com/watch?v=E6CdIawPTh0&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=12) | [Introdução](https://github.com/levinaval/html5_e_css3/blob/main/mod.1_cap3_aula.10/I_Front-end%2C%20Back-%20end%20e%20Full%20Stack))
