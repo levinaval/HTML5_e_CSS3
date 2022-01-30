@@ -14,3 +14,7 @@
   * Front-end, Back-end e Full Stack ([Descrição](https://www.youtube.com/watch?v=iSqf2iPqJNM&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=10) | [Introdução](https://github.com/levinaval/html5_e_css3/blob/main/Front-end%2C%20Back-%20end%20e%20Full%20Stack/I.mod.1_cap3_aula10))
 
   * Html exercício ([Descrição](https://www.youtube.com/watch?v=E6CdIawPTh0&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=12) | [Código](https://github.com/levinaval/html5_e_css3/blob/main/Html_exerc%C3%ADcio/index.html))
+
+  * Simbolos e Imagem ([Descrição](https://www.youtube.com/watch?v=E6CdIawPTh0&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=12) | [Código](https://github.com/levinaval/html5_e_css3/blob/main/Html_exerc%C3%ADcio/index.html))
+
+  * A tag de imagem ([Descrição](https://www.youtube.com/watch?v=CwOmEetWMnU&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=18) | [Código](https://github.com/levinaval/html5_e_css3/blob/main/Html_exerc%C3%ADcio/index.html))
