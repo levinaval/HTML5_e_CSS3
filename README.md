@@ -17,4 +17,4 @@
 
   * Simbolos e Imagem ([Descrição](https://www.youtube.com/watch?v=nhMdFe3WwYc&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=14) | [Código](https://github.com/levinaval/html5_e_css3/blob/main/14.simbolos_e_emoge/intro.aula.14))
 
-  * A tag de imagem ([Descrição](https://www.youtube.com/watch?v=CwOmEetWMnU&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=18) | [Código](https://github.com/levinaval/html5_e_css3/blob/main/18a_tag_imagem/index.html))
+  * A tag de imagem ([Descrição](https://www.youtube.com/watch?v=CwOmEetWMnU&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=18) | [Código](https://github.com/levinaval/html5_e_css3/blob/main/18a_tag_imagem/index.html ))
