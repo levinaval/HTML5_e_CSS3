@@ -15,9 +15,12 @@
   </p><!-- Temos que criar uma tabneio para o video -->
   <p>Dica: vídeo tem que ter no máximo 1080p para hospedar no site. Acima disso a hospedagem tem que ser fora do site.</p><!-- Baixar um converço ogv -->
   <h3>Video hospedado localmente.</h3>
-<video src="midia/carro.mp4" width="500" controls>Este video não foi trabalhado no conversor</video>
+<video src="midia/carro.mp4" width="500" controls>Este video não foi trabalhado no conversor</video><!-- Esta é a forma cimples -->
+<!-- Temos que colocar o mesmo vídeo em várias versões -->
 
 <h1>Este video é de família</h1>
-<video src="midia/meus amores.mp4" width="700" controls>Mostra toda a minha riqueza</video>
+<video width="400" poster="midia/abertura.jpeg" controls>
+  <source src="midia/meus amores.mp4" type="video/mp4"><!-- OBS: A ordem ao colocar as verções dos  videus é de cima para baixo -->
+</video>
 </body>
 </html>
