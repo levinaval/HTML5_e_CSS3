@@ -1,7 +1,9 @@
 @charset "UTF-8";
 
+
 body{
-  background-color: lightsteelblue;
+  background-image: -o-linear-gradient(to bottom, #7abbae, #419f6d, #0ac19c);
+  background-attachment: fixed;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 20px;
 }
