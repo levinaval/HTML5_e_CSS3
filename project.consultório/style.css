@@ -3,9 +3,9 @@
 } 
 
 body{
-  background-image: linear-gradient(to bottom, #C3C6CB; #A3916D; #9D9C9A;)
+  background-image: linear-gradient(to bottom, #C3C6CB, #A3916D, #9D9C9A);
 }
 
 p {
-color: #181E40; #D2D5D9; #8C6418; #A6A5A4; #8C591B; 
+color: #181E40, #D2D5D9, #8C6418, #A6A5A4, #8C591B 
 }
