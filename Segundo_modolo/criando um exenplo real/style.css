@@ -20,7 +20,7 @@ margin: auto;
 h1 {
   color: #9ea0a4;
   text-align: center;
-  text-shadow: #A3916D;
+  text-shadow: 1px 1px 2px #A3916D;
 }
 
 h2 {
