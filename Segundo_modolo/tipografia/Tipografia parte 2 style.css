@@ -1,1 +1,26 @@
 @charset "UTF-8";
+
+body {
+  background-size: auto;
+}
+
+main{
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 5px 5px 15px #A3916D;
+  width: 600px;
+  padding: 10px;
+  margin: auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+p {
+  text-align: justify;
+}
