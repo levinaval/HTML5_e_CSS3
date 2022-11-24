@@ -1,6 +1,10 @@
 @charset "UTF-8";
 
 body {
+  background-image: linear-gradient(to right, #C3C6CB, #A3916D, #9D9C9A);
+}
+
+body {
   background-size auto;
 }
 
