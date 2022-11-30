@@ -1,9 +1,13 @@
 @charset "UTF-8";
 
+body {
+  background-size: auto;
+}
+
 h1{
   text-align: center;
 }
 
 h2{
-  text-align: center;
+text-align: center;
 }
