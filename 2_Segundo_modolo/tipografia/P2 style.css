@@ -31,3 +31,20 @@ ul {
   display: flex;
   justify-content: space-around;
   }
+
+.btn{
+  padding: 10xp 10px;
+  width: 75px;
+  color: #fff;
+  background: #209915;
+  border: 1px solid #555;
+  border-radius: 5px;
+  text-align: center;
+  user-select: none;
+  cursor: pointer;
+}
+
+li{
+  background: #19eb06;
+  transition: background 1s;
+}
