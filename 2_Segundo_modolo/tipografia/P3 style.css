@@ -11,7 +11,7 @@ main{
 
 
 body {
-  background-size: auto;
+  background-image: linear-gradient(40deg, black, white, yellow);
 }
 
 h1{
