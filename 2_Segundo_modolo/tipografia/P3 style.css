@@ -26,3 +26,7 @@ text-align: center;
 p {
   text-align: left;
 }
+
+ul {
+padding: 0;
+}
