@@ -3,19 +3,32 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="css/tailwind.css">
-  <link rel="stylesheet" href="css/styles.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css">
+  <!-- Adicione outros estilos personalizados aqui, se necessário -->
   <title>Reabilitação Oral</title>
 </head>
-<body>
-  <div class="container mx-auto text-center mt-10">
-    <img src="imagem do proficional" alt="proficional" class="mb-4">
+<body class="m-o">
+  <!-- Barra Superior -->
+  <!--<div class="bg-céu p-4 text-white"> -->
+  <div class="w-100 h-50 bg-blue-500 p-4 text-white" > <!-- sm: bg-blue-500 p-4 text-white md: bg-blue-500 p-4 text-white w-full"-->
+    <div class="mx-auto">
+      <div class="flex justify-around mt-8">
+        <a href="about.html" class="rounded-md hover:bg-green-500 p-2">Sobre o Dr. Laécio Alves</a>
+        <a href="services.html" class="rounded-md hover:bg-green-500 p-2">Servisos</a>
+        <a href="depositions.html" class="rounded-md hover:bg-green-500 p-2">Depoimentos</a>
+        <a href="team.html" class="rounded-md hover:bg-green-500 p-2">Equipe de Laboratorio</a>
+        <a href="/contact" class="rounded-md hover:bg-green-500 p-2">Contato</a>
+      </div>
+    </div>
   </div>
 
-  <script>
-    setTimeout(function() {
-      window.location.href = "about.html";
-    }, 3000);
-  </script>
+  <!-- Conteúdo Principal -->
+  <div class="flex justify-center items-center h-screen">
+    <img src="new-laecio.jpg" alt="Profissional" class="animate-fade-in duration-3000">
+  </div>
+  <div class="container mx-auto mt-8">
+    <p>Seu conteúdo principal aqui</p>
+  </div>
+
 </body>
 </html>
